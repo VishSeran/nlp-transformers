@@ -153,10 +153,10 @@ This project is licensed under the MIT License.
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/VishSeran">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/seran-vishwa-46b4aa212/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>

@@ -51,8 +51,6 @@ nlp-transformers/
 ├── 01_text_preprocessing/
 ├── 02_embeddings/
 ├── 03_language_models/
-├── 04_transformers/
-├── 05_llm_applications/
 │
 ├── utils/
 └── requirements.txt
@@ -78,18 +76,6 @@ nlp-transformers/
 
 * N-gram models
 * RNN-based models
-
-### 🔴 04. Transformers
-
-* Attention Mechanism
-* Transformer (from scratch)
-* BERT Fine-tuning
-
-### 🟡 05. LLM Applications
-
-* Text Classification
-* Named Entity Recognition
-* Text Generation
 
 ---
 
